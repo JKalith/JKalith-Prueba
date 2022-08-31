@@ -9,12 +9,22 @@ package jkalith.prueba;
  * @author james
  */
 public class JKalithPrueba {
+/*
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+    
+        //hola 
+        System.out.println("Hola que onda perro");    
+                
+        
+        
+        
+        
+        
+        
     }
     
 }
